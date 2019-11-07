@@ -6,3 +6,5 @@ v=5
 w=2
 x=v**w
 print(x)
+f=x/c
+print(f)
